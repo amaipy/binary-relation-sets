@@ -1,0 +1,7 @@
+É necessário rodar num terminal que tenha gcc instalado, pois é ele quem compila
+Para compilar, rode:
+gcc -o tp tp.c
+
+e para executar:
+
+./tp exemplos/exemplo.txt
