@@ -12,7 +12,7 @@ It was made as an assignment for the Discrete Mathematics course at UFMG in the 
 
 * And to run:
 
-`./tp exemplos/exemplo.txt`
+`./tp exemplos/file_to_be_tested.txt`
 
 
 ## Implementation
