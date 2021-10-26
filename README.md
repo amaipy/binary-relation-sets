@@ -4,6 +4,17 @@ Binary Relation Sets algorithm implemented in C.
 
 It was made as an assignment for the Discrete Mathematics course at UFMG in the second term of 2020 (02/2020).
 
+# Instructions
+
+* To compile the algorithm, execute in a terminal that has `gcc` installed:
+
+`gcc -o tp tp.c`
+
+* And to run:
+
+`./tp exemplos/exemplo.txt`
+
+
 ## Implementation
 
 As it is necessary to read the test file (a .txt), the file path is passed as an argument to the function. The first line of the file defines 
